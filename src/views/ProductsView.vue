@@ -14,7 +14,7 @@
               {{ product.description }}
             </p>
             <router-link :to="`/product/${product.id}`" class="btn btn-primary"
-              >查看</router-link
+              >查看內容</router-link
             >
           </div>
         </div>
