@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">後台</a>
+      <a class="navbar-brand" href="#/admin">後台</a>
       <button
         class="navbar-toggler"
         type="button"
